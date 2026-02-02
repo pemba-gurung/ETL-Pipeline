@@ -18,8 +18,8 @@ The Goal of this project is to extract data from a zipped HTML document, tranfor
 
 ![Tranfromed Data](./images/AggregatedData.png)
 
-## Data to post to External URL
+## Post Data to External URL
 
-- Atlast, the dataframe is converted to json and post it to external API for downstream application.
+- Atlast, the dataframe is converted to json and post it to external API for downstream application. Successful post will return HTTP status code 200.
 
 ![API Delivery Data](./images/PostData.png)
