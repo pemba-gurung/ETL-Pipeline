@@ -8,7 +8,7 @@ The Goal of this project is to extract data from a zipped HTML document, tranfor
 
 ## Display Data
 
-![Extracted Data](.images/DataFrame.png)
+![Extracted Data](./images/DataFrame.png)
 
 - After the the script groups the data by date and item,
   It shows the aggregated sales and units for each item on each day.
@@ -16,10 +16,10 @@ The Goal of this project is to extract data from a zipped HTML document, tranfor
 
 ## Transformed Data
 
-![Tranfromed Data](.images/AggredatedData.png)
+![Tranfromed Data](./images/AggredatedData.png)
 
 ## Data to post to External URL
 
 - Atlast, the dataframe is converted to json and post it to external API for downstream application.
 
-![API Delivery Data](.images/PostData.png)
+![API Delivery Data](./images/PostData.png)
