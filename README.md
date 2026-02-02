@@ -1,6 +1,6 @@
 ## The Project Description
 
-The Goal of this project is to extract data from a zipped HTML document, tranform the data and load the transformed data to an external API in JSON format.
+The Goal of this project is to extract data from a zipped HTML document, tranform the data and load the transformed data to an external API in JSON format. This project is built in a scalable manner, so we can pass in a dataframe as often as we need.
 
 ## Features
 
