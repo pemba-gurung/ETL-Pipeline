@@ -4,13 +4,13 @@ The Goal of this project is to extract data from a zipped HTML document, tranfor
 
 ## Features
 
-- First extracts the data and load it into a pandas dataframe.
+- First, extracts the data and load it into a pandas dataframe.
 
 ## Display Data
 
 ![Extracted Data](./images/DataFrame.png)
 
-- After the the script groups the data by date and item,
+- After the script groups the data by date and item,
   It shows the aggregated sales and units for each item on each day.
   Every row have an entry for order date, product, sales, and quantity.
 
