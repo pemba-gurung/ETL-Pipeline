@@ -2,7 +2,7 @@
 
 # First extracts the data and load it into a pandas dataframe.
 
-![Extracted Data](<Screenshot 2026-02-01 at 9.24.22 PM.png>)
+![Extracted Data](Screenshot%202026-02-01%20at%209.24.22 PM.png)
 
 # After the the script groups the data by date and item,
 
@@ -10,10 +10,10 @@
 
 # Every row have an entry for order date, product, sales, and quantity.
 
-![Tranfromed Data](<Screenshot 2026-02-01 at 9.24.36 PM.png>)
+![Tranfromed Data](Screenshot%202026-02-01%20at%209.24.36 PM.png)
 
 # This project is built in a scalable manner, so we can pass in a dataframe as often as we need.
 
 # Atlast, the dataframe is converted to json and post it to external API for downstream application.
 
-![API Delivery Data](<Screenshot 2026-02-01 at 9.25.01 PM.png>)
+![API Delivery Data](Screenshot 2026-02-01 at 9.25.01 PM.png)
